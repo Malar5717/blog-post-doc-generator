@@ -4,9 +4,9 @@ import os
 warnings.filterwarnings("ignore", message=".*torch.classes.*")
 
 import streamlit as st
-from pythonProject.text_extraction import extract_text_from_image
-from pythonProject.image_processing import apply_aesthetic_effect
-from pythonProject.doc_generator import generate_word_document
+from text_extraction import extract_text_from_image
+from image_processing import apply_aesthetic_effect
+from doc_generator import generate_word_document
 
 from PIL import Image
 import tempfile

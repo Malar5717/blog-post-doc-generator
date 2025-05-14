@@ -31,7 +31,7 @@ def generate_word_document(image_path, text, output_filename):
 
 if __name__ == "__main__":
     # Example usage: Modify this part as necessary for your needs
-    create_doc_with_image_and_text('path_to_your_image.jpg', 'This is an example text.', 'output.docx')
+    generate_word_document('path_to_your_image.jpg', 'This is an example text.', 'output.docx')
 
 
 
