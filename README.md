@@ -14,27 +14,15 @@ This tool automates article creation for journalists and content creators by qui
 
 This tool is designed for **journalists** who need to quickly create articles by uploading photos and handwritten notes. In just a few steps, your content is ready to be refined and published. It's perfect for reporters in the field who want to digitize their notes and photos on the go!
 
-## 🖼 Example Workflow
+## 🖼 Workflow
 
 1. **Step 1**: Upload a photo with handwritten notes.
-2. **Step 2**: The tool extracts the text from the image using OCR.
-3. **Step 3**: Choose your preferred layout and formatting options.
-4. **Step 4**: The tool generates an article with the text and image in your chosen layout.
+   ![image](https://github.com/user-attachments/assets/b99c375f-4889-45e9-9665-b7f35db13bdb)
 
-### 📸 Example Demo
+3. **Step 2**: The tool extracts the text from the image using OCR.
+5. **Step 3**: Choose your preferred layout and formatting options.
+  ![image](https://github.com/user-attachments/assets/f01403ab-749f-473f-81f2-3b203d8bfbce)
 
-**Before**: 
+7. **Step 4**: The tool generates an article with the text and image in your chosen layout.
+   ![image](https://github.com/user-attachments/assets/29d670a4-e738-47cd-928a-962b11308aa3)
 
-- A photo of handwritten notes with some scribbled thoughts.
-
-**After**: 
-
-- An article, ready for publishing, with structured text and an embedded image.
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Malar5717/blog-doc.git
-cd blog-doc
